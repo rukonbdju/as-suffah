@@ -24,24 +24,7 @@ This site presents the vision, goals, activities, and future plans of As-Suffah 
 
 - [Next.js](https://nextjs.org/) – Static Site Generation (SSG)
 - [Tailwind CSS](https://tailwindcss.com/) – Utility-first modern styling
-- [TypeScript (optional)] – If used, for type safety and scalability
 
----
-
-## 📁 Project Structure
-
-assuffah/
-├── public/ # Static assets (images, icons)
-├── src/
-│ ├── app/ # App Router pages and layout
-│ └── components/ # Reusable UI components
-├── tailwind.config.js # Tailwind configuration
-├── next.config.js # Next.js configuration
-├── package.json
-└── README.md
-
-
----
 
 ## 🚀 Getting Started
 
@@ -49,8 +32,9 @@ assuffah/
 
 ```bash
 git clone https://github.com/your-username/as-suffah-site.git
-cd as-suffah-site
+cd as-suffah
 npm install
 # or
 yarn
+npm run dev
 ```
