@@ -1,5 +1,7 @@
 # 🕌 As-Suffah Institute, JU
 
+Live site: [assuffah.org](https://assuffah.org/)
+
 “From the Mosque to the Mind – Illuminating Lives with Qur’an”
 
 A static website for **As-Suffah Institute, Jahangirnagar University** — a mosque-centered, student-driven Islamic organization focused on Qur'anic education, tarbiyah, and da'wah based on the model of the original *As-Suffah* in Masjid an-Nabawi ﷺ.
