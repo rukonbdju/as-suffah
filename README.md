@@ -38,3 +38,13 @@ npm install
 yarn
 npm run dev
 ```
+### 2. Run in local machine
+
+```bash
+npm run dev
+```
+### 2. Build application for production
+
+```bash
+npm run build
+```
